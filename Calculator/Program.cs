@@ -18,3 +18,5 @@ secondnumber = Convert.ToInt32(Console.ReadLine());
 result = firstnumber + secondnumber;
 Console.WriteLine($"Adding {firstnumber} and {secondnumber} gives the answer {result}");
 Console.ReadKey();
+
+Console.WriteLine("Please Work");
